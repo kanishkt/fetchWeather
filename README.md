@@ -8,3 +8,5 @@ Weather API for the place and then I parse the JSON information to the App to be
 In the coming days, I Plan to work on the UI and add more information to the App.
 
 Developed By : Kanishk Thareja
+
+![Alt text](/Users/kanishk/Desktop/photo.png?raw=true)
