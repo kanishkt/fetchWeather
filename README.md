@@ -9,4 +9,5 @@ In the coming days, I Plan to work on the UI and add more information to the App
 
 Developed By : Kanishk Thareja
 
-![Alt text](/Users/kanishk/Desktop/photo.png?raw=true)
+![photo](https://cloud.githubusercontent.com/assets/6327394/3715076/796bb254-15cd-11e4-9982-c31e3d043005.png)
+
